@@ -27,7 +27,7 @@ This repository contains Data Science projects I created for Micro Masters and F
    Developed analytical report in Tableau to identify business and wells using publicly available Texas monthly crude oil production data. Imported PDF into Tableau, performed manual data cleanup, created dashboard for market operations efficiency team.
 	</li>
 </td></tr>
-<tr><td>Synapses Health Practice Analysis
+<tr><td> <b>Synapses Health Practice Analysis</b>
   <br/>
   Furnished executive team with analysis, insights and reports for strategic planning of health care services. 
 <li>  
