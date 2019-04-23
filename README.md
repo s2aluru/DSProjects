@@ -6,7 +6,7 @@ I'm a freelance Data Scientist with over a year of experience executing data dri
 <br/>
 <br/>
 
-This repository contains Data Science projects I created for Micro Masters and Freelancing. They are developed using Jupyter notebooks, Python and ScikitLearn libraries. Listed below is the description of project with a link to Html (if shareable) and source files. 
+This repository contains Data Science projects I created for Micro Masters and Freelancing. They are developed using Jupyter notebooks, Python and ScikitLearn libraries. Listed below is the description of projects with a link to Html (if shareable) and source file. 
 <br/>
 <br/>
 
