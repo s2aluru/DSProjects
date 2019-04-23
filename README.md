@@ -18,6 +18,15 @@ This repository contains jupyter python projects I developed for Data Science Mi
     	Developed analytical report in Tableau to identify business and wells using publicly available Texas’ monthly crude oil production data. Imported PDF into Tableau, performed manual data cleanup, created dashboard for market operations efficiency team.
 
 </td></tr>
+<tr><td>Synapses Health Practice
+  <br/>
+  
+	Performed analysis on services over last 5 years (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesServiceLineAnalyzer.py">Code</a>)
+	Created Excel spread sheets for services, insurance payments, diagnosis codes, referring providers. (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesDiagnosticCodeAnalyzer.py">Code</a>)
+
+  (<a href="https://github.com/s2aluru/Analysis/blob/master/Satellite%20Image%20Analysis.ipynb">Code</a>)
+</td></tr>
+
 <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Sentiment Analysis on Allergy tweets.html">Sentiment Analysis on Allergy tweets</a> <br/>
   Performed sentiment analysis and plotted latest tweets on Allergy within United States (<a href="https://github.com/s2aluru/Analysis/blob/master/Sentiment%20Analysis%20on%20Allergy%20tweets.ipynb">Code</a>)
 </td></tr>
@@ -29,7 +38,8 @@ This repository contains jupyter python projects I developed for Data Science Mi
 <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Staff Compensation.html">Staff Compensation</a>
   <br/>
   As part of Micro-Masters mid term project, analyzed countries around the world and d determined that Staff compensation doesn't necessarily go up with Education expenditure and of all the 20 countries Mexico's teacher compensation to expenditure ratio is high (<a href="https://github.com/s2aluru/Analysis/blob/master/Staff%20Compensation.ipynb">Code</a>)
-</td></tr><tr><td><a href="https://s2aluru.github.io/Analysis/Html/Satellite Image Analysis.html">Basic Satellite Image Analysis</a>
+</td></tr>
+<tr><td><a href="https://s2aluru.github.io/Analysis/Html/Satellite Image Analysis.html">Basic Satellite Image Analysis</a>
   <br/>
   Preliminary analysis of an image
   (<a href="https://github.com/s2aluru/Analysis/blob/master/Satellite%20Image%20Analysis.ipynb">Code</a>)
