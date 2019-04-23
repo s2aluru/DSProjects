@@ -1,7 +1,7 @@
-# Analysis-and-Predictions
+# Analysis and Predictions
 
 <br/>
-I'm a freelance Data Scientist with over a year of experience executing data driven solutions and a Software Engineer with 15 years of experience implementing enterprise wide software solutions in Health sciences using various Microsoft, Oracle technologies. I got interested in Data Science and Machine Learning couple of years ago and started online Micro-Masters in Data Science to learn more. I have recently completed the <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/">degree</a> in Decemeber 2018. Along with the course work, I did freelancing work for couple of companies.
+I'm a freelance Data Scientist with over a year of experience executing data driven solutions and a Software Engineer with 15 years of experience implementing enterprise wide software solutions in Health sciences using various Microsoft, Oracle technologies. I got interested in Data Science and Machine Learning couple of years ago and started online Micro-Masters in Data Science to learn more. I have succesfuly attained the <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/">degree</a> from University of San Deigo in Decemeber 2018. Along with the course work, I did analysis projects for couple of companies.
 
 <br/>
 <br/>
@@ -26,7 +26,7 @@ This repository contains Data Science projects I created for Micro Masters and F
    Developed analytical report in Tableau to identify business and wells using publicly available Texas’ monthly crude oil production data. Imported PDF into Tableau, performed manual data cleanup, created dashboard for market operations efficiency team.
 	</li>
 </td></tr>
-<tr><td>Synapses Health Practice
+<tr><td>Synapses Health Practice Analysis
   <br/>
 <li>  
 	Performed analysis on services over last 5 years and created Excel spread sheets for services, insurance payments, referring providers (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesServiceLineAnalyzer.py">Code</a>)
@@ -44,7 +44,7 @@ This repository contains Data Science projects I created for Micro Masters and F
 
 <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Student Performance Prediction.html">Student Performance Prediction</a>
   <br/>
- <li>  As part of Micro-Masters final project, predicted students’ final GPA, identified that apart from previous grades, mother’s health, job and Father's job as teacher affects final GPA. Compared various regression models with evaluation metric as RMSE (<a href="https://github.com/s2aluru/Analysis/blob/master/Student%20Performance%20Prediction.ipynb">Code</a>)
+ <li>  As part of Micro-Masters final project, predicted students’ final GPA using various regression models with evaluation metric as RMSE (<a href="https://github.com/s2aluru/Analysis/blob/master/Student%20Performance%20Prediction.ipynb">Code</a>)
  </li>
 		<li>Used Kfold, Cross Validation, Grid Search techniques for Linear, Ridge, Lasso, Decision Tree and Random Forest regression models.</li>
  </td></tr>
