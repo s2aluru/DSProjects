@@ -16,7 +16,7 @@ This repository contains Data Science projects I created for Micro Masters and F
 
 <table>
   <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Oil Wells analysis.html">On Point Field Optimization</a> <br/>
-  Performed market analysis to identify potential wells that can be serviced and helped increase revenue by $800,000 per year.
+  Performed market analysis to identify potential wells that can be serviced and helped increase revenue by 20% per year.
   <li>
     	Developed automated application using Selenium to download 6000+ files on Oil and Gas reports from Texas railroad website. 
     (<a href="https://github.com/s2aluru/Analysis/blob/master/DownloadTexasOandGData.ipynb">Code</a>)
