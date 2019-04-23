@@ -15,7 +15,8 @@ This repository contains Data Science projects I created for Micro Masters and F
 <body style="background-color:cyan;">
 
 <table>
-  <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Oil Wells analysis.html">Oil Wells Analysis</a>
+  <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Oil Wells analysis.html">On Point Field Optimization</a> <br/>
+  Performed market analysis to identify potential wells that can be serviced and helped increase revenue by $800,000 per year.
   <li>
     	Developed automated application using Selenium to download 6000+ files on Oil and Gas reports from Texas railroad website. 
     (<a href="https://github.com/s2aluru/Analysis/blob/master/DownloadTexasOandGData.ipynb">Code</a>)
@@ -23,15 +24,16 @@ This repository contains Data Science projects I created for Micro Masters and F
       Performed analysis to identify Oil Wells with sub-optimal monthly production (<a href="https://github.com/s2aluru/Analysis/blob/master/Oil%20Wells%20analysis.ipynb">Code</a>)
    </li> 
    <li> 
-   Developed analytical report in Tableau to identify business and wells using publicly available Texas’ monthly crude oil production data. Imported PDF into Tableau, performed manual data cleanup, created dashboard for market operations efficiency team.
+   Developed analytical report in Tableau to identify business and wells using publicly available Texas monthly crude oil production data. Imported PDF into Tableau, performed manual data cleanup, created dashboard for market operations efficiency team.
 	</li>
 </td></tr>
 <tr><td>Synapses Health Practice Analysis
   <br/>
+  Furnished executive team with analysis, insights and reports for strategic planning of health care services. 
 <li>  
-	Performed analysis on services over last 5 years and created Excel spread sheets for services, insurance payments, referring providers (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesServiceLineAnalyzer.py">Code</a>)
+	Performed analysis on services over last 5 years and created excel spread sheets for services, insurance payments, referring providers (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesServiceLineAnalyzer.py">Code</a>)
 	 </li> 
-   <li> Created Excel spread sheets for diagnosis codes (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesDiagnosticCodeAnalyzer.py">Code</a>)
+   <li> Created excel spread sheets for diagnosis codes (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesDiagnosticCodeAnalyzer.py">Code</a>)
 </li>
 </td></tr>
 
