@@ -30,6 +30,8 @@ This repository contains jupyter python projects I developed for Data Science Mi
   <br/>
   As part of Micro-Masters mid term project, analyzed countries around the world and d determined that Staff compensation doesn't necessarily go up with Education expenditure and of all the 20 countries Mexico's teacher compensation to expenditure ratio is high (<a href="https://github.com/s2aluru/Analysis/blob/master/Staff%20Compensation.ipynb">Code</a>)
 </td></tr><tr><td><a href="https://s2aluru.github.io/Analysis/Html/Satellite Image Analysis.html">Basic Satellite Image Analysis</a>
+  <br/>
+  Preliminary analysis of an image
   (<a href="https://github.com/s2aluru/Analysis/blob/master/Satellite%20Image%20Analysis.ipynb">Code</a>)
 </td></tr>
 
