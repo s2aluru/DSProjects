@@ -1,12 +1,12 @@
 # Srilatha Aluru
 
 <br/>
-I'm a freelance Data Scientist with over a year of experience executing data driven solutions and a Software Engineer with 15 years of experience implementing enterprise wide software solutions in Health sciences using various Microsoft, Oracle technologies. I got interested in Data Science and Machine Learning couple of years ago and started online Micro-Masters in Data Science to learn more. I have succesfuly attained the <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/">degree</a> from University of San Deigo in Decemeber 2018. Along with the course work, I did analysis projects for couple of companies and delivered useful insights.
+I'm a freelance Data Scientist with over a year of experience executing data driven solutions and a Software Engineer with 15 years of experience implementing enterprise wide software solutions in Health sciences using various Microsoft, Oracle technologies. I got interested in Data Science and Machine Learning and completed online Micro-Masters <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/">degree</a> in Data Science from University of San Deigo in Decemeber 2018. Along with the course work, I have done freelancing for couple of companies and delivered useful insights.
 
 <br/>
 <br/>
 
-This repository contains Data Science projects I created for Micro Masters and Freelancing. They are developed using Jupyter notebooks, Python and ScikitLearn libraries. Listed below is the description of projects with a link to Html (if shareable) and source file. 
+This repository contains Data Science projects I have done for Micro Masters and Freelancing. They are developed using Jupyter notebooks, Python and ScikitLearn libraries. Listed below is the description of projects with a link to Html (if shareable) and source file. 
 <br/>
 <br/>
 
