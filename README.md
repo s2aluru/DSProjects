@@ -1,7 +1,7 @@
 # Srilatha Aluru
 
 <br/>
-I'm a freelance Data Scientist with experience executing data driven solutions and a Principal Software Engineer with 15 years of experience implementing enterprise wide software solutions in Health sciences using various Microsoft, Oracle technologies. I got interested in Data Science/Machine Learning and completed online <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/"> Micro-Masters degree</a> in Data Science from University of San Deigo in Decemeber 2018. Along with the course work, I have done freelancing for couple of companies and delivered useful insights.
+I'm a freelance Data Scientist passionate about executing data solutions and a Principal Software Engineer with 15 years of experience implementing enterprise wide software solutions in Health sciences using various Microsoft, Oracle technologies. I got interested in Data Science/Machine Learning and completed online <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/"> Micro-Masters degree</a> in Data Science from University of San Deigo in Decemeber 2018. Along with the course work, I have done freelancing for couple of companies and delivered useful insights.
 
 <br/>
 <br/>
