@@ -35,7 +35,7 @@ This repository contains Data Science projects I have done for Micro Masters and
 </td></tr>
 
 <tr><td><a href="https://github.com/s2aluru/ResumeChatbot/tree/master">Resume Chatbot</a><br/>
-  <li> Developed a resume chat bot using Flask, Python, NLP, I hosted this project on my personal Azure website(<a href="https://github.com/s2aluru/ResumeChatbot/blob/master/chatbot.py">Code</a>)
+  <li> Developed a Chatbot for my resume using Flask, Python, NLP, to test the web application I hosted this project on my personal Azure website. (<a href="https://github.com/s2aluru/ResumeChatbot/blob/master/chatbot.py">Code</a>)
  </li> 
    </td></tr>
 
