@@ -1,7 +1,7 @@
 # Srilatha Aluru
 
 <br/>
-I'm a freelance Data Scientist passionate about executing data solutions and a Principal Software Engineer with 15 years of experience implementing enterprise wide software solutions in Health sciences using various Microsoft, Oracle technologies. I got interested in Data Science/Machine Learning and completed online <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/"> Micro-Masters degree</a> in Data Science from University of San Deigo in Decemeber 2018. Along with the course work, I have done freelancing for couple of companies and delivered useful insights.
+I'm a Data Scientist with passion for developing end to end data solutions and a Principal Software Engineer with 15 years of experience implementing enterprise wide software solutions in Health sciences using various Microsoft, Oracle technologies. I got interested in Data Science/Machine Learning and completed online <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/"> Micro-Masters degree</a> in Data Science from University of San Deigo in Decemeber 2018. Along with the course work, I have done freelancing for couple of companies and delivered useful insights.
 
 <br/>
 <br/>
@@ -15,17 +15,14 @@ This repository contains Data Science projects I have done for Micro Masters and
 <body style="background-color:cyan;">
 
 <table>
-  <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Oil Wells analysis.html">Onpoint Field Optimization</a> <br/>
-  Performed market analysis to identify potential wells that can be serviced and helped increase revenue by 20% per year.
+  <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Oil Wells analysis.html">On Point Field Optimization</a> <br/>
+  Performed market analysis to identify potential clienys.
   <li>
-    	Developed automated application using Selenium to download 6000+ files on Oil and Gas reports from Texas railroad website. 
+    Automated web scraping tool to download 6000+ files of oil and gas field data from Texas railroad website using Python, Selenium.  
     (<a href="https://github.com/s2aluru/Analysis/blob/master/DownloadTexasOandGData.ipynb">Code</a>)
   </li><li> 
-      Performed analysis to identify Oil Wells with sub-optimal monthly production (<a href="https://github.com/s2aluru/Analysis/blob/master/Oil%20Wells%20analysis.ipynb">Code</a>)
+      Performed exploration data analysis and identified Oil Wells with sub-optimal monthly production using Python, pandas, seaborn packages.  (<a href="https://github.com/s2aluru/Analysis/blob/master/Oil%20Wells%20analysis.ipynb">Code</a>)
    </li> 
-   <li> 
-   Developed analytical report in Tableau to identify business and wells using publicly available Texas monthly crude oil production data. Imported PDF into Tableau, performed manual data cleanup, created dashboard for market operations efficiency team.
-	</li>
 </td></tr>
 <tr><td> <b>Synapses Health Practice Analysis</b>
   <br/>
@@ -37,22 +34,25 @@ This repository contains Data Science projects I have done for Micro Masters and
 </li>
 </td></tr>
 
-<tr><td><a href="https://s2aluru.github.io/Analysis/Html/Sentiment Analysis on Allergy tweets.html">Sentiment Analysis on Allergy tweets</a> <br/>
-  <li> Performed sentiment analysis and plotted latest tweets on Allergy within United States (<a href="https://github.com/s2aluru/Analysis/blob/master/Sentiment%20Analysis%20on%20Allergy%20tweets.ipynb">Code</a>)
- </li> 
- <li> Used additional libraries Tweepy, Geocoder, NLTK, Bigrams, TextBlob, Plotly
+<tr><td><a href="https://github.com/s2aluru/ResumeChatbot/tree/master">Resume Chatbot</a><br/>
+  <li> Developed a resume chat bot using Flask, Python, NLP, I hosted this project on my personal Azure website(<a href="https://github.com/s2aluru/ResumeChatbot/blob/master/chatbot.py">Code</a>)
  </li> 
    </td></tr>
 
+<tr><td><a href="https://s2aluru.github.io/Analysis/Html/Sentiment Analysis on Allergy tweets.html">Sentiment Analysis on Allergy tweets</a> <br/>
+  <li> Performed sentiment analysis on latest tweets on allergy and plotted sentiments within USA to get locations of allergy sufferers using Python, tweepy, nltk, geocoder, bigrams, textblob, plotly packages. (<a href="https://github.com/s2aluru/Analysis/blob/master/Sentiment%20Analysis%20on%20Allergy%20tweets.ipynb">Code</a>)
+ </li> 
+   </td></tr>
+   
 <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Student Performance Prediction.html">Student Performance Prediction</a>
   <br/>
  <li>  As part of Micro-Masters final project, predicted students’ final GPA using various regression models with evaluation metric as RMSE (<a href="https://github.com/s2aluru/Analysis/blob/master/Student%20Performance%20Prediction.ipynb">Code</a>)
  </li>
-		<li>Used Kfold, Cross Validation, Grid Search techniques for Linear, Ridge, Lasso, Decision Tree and Random Forest regression models.</li>
+		<li>Used K-fold, Cross Validation, Grid Search techniques for Linear, Ridge, Lasso, Decision Tree and Random Forest regression models.</li>
  </td></tr>
 <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Staff Compensation.html">Staff Compensation</a>
   <br/>
-  <li> As part of Micro-Masters mid term project, analyzed countries around the world and d determined that Staff compensation doesn't necessarily go up with Education expenditure and of all the 20 countries Mexico's teacher compensation to expenditure ratio is high (<a href="https://github.com/s2aluru/Analysis/blob/master/Staff%20Compensation.ipynb">Code</a>)
+  <li> As part of Micro-Masters mid term project, analyzed countries around the world and determined that Staff compensation doesn't necessarily go up with education expenditure and of the 20 countries Mexico's 'teacher compensation to expenditure' ratio is high (<a href="https://github.com/s2aluru/Analysis/blob/master/Staff%20Compensation.ipynb">Code</a>)
  </li></td></tr>
 <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Satellite Image Analysis.html">Basic Satellite Image Analysis</a>
   <br/>
