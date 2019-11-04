@@ -7,7 +7,7 @@ I got interested in Data Science after reading how data can help improve product
 <br/>
 After completing the degree, I have done freelancing for couple of companies and delivered useful insights.
 <br/><br/>
-This repository contains Data Science projects I have done for Micro Masters and Freelancing. They are developed using Jupyter notebooks, Python and ScikitLearn libraries. Listed below is the description of projects with a link to Html (if shareable) and source file. 
+This repository contains Data Science projects I have done out of my personal interest and others for Micro Masters and Freelancing. They are developed using Jupyter notebooks an Python. Listed below is the description of projects with a link to Html (if shareable) and source file. 
 <br/>
 <br/>
 
@@ -49,7 +49,7 @@ This repository contains Data Science projects I have done for Micro Masters and
   <br/>
  <li>  As part of Micro-Masters final project, predicted students’ final GPA using various regression models with evaluation metric as RMSE (<a href="https://github.com/s2aluru/Analysis/blob/master/Student%20Performance%20Prediction.ipynb">Code</a>)
  </li>
-		<li>Used K-fold, Cross Validation, Grid Search techniques for Linear, Ridge, Lasso, Decision Tree and Random Forest regression models.</li>
+		<li>Used K-fold, Cross Validation, Grid Search techniques for Linear, Ridge, Lasso, Decision Tree and Random Forest regression models from scikit-learn package.</li>
  </td></tr>
 <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Staff Compensation.html">Staff Compensation</a>
   <br/>
