@@ -6,10 +6,7 @@ I'm a Data Scientist with passion for developing end to end data solutions and a
 I got interested in Data Science after reading how data can help improve products, services, experience and I wanted to use my years of software engineering experience to build automated pipeline for all phases (data collection, analysis, prediction, deployment) of data solutions. I pursued online course to dive into field of analysis and prediction and completed online <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/"> Micro-Masters degree</a> in Data Science from University of San Deigo in Decemeber 2018. 
 
 After completing the course, I have done freelancing for couple of companies and delivered useful insights.
-
 <br/>
-<br/>
-
 This repository contains Data Science projects I have done for Micro Masters and Freelancing. They are developed using Jupyter notebooks, Python and ScikitLearn libraries. Listed below is the description of projects with a link to Html (if shareable) and source file. 
 <br/>
 <br/>
