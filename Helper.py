@@ -53,8 +53,8 @@ class Utils:
         
     def print_metrics(self, title):
         self.printHtml(title)
-        pd.set_option('display.max_colwidth', -1)
-        self.evalmetrics.sort_values(by='R2 Score', ascending=False)
+        pd.set_option('display.max_colwidth', -1)    
+        display(self.evalmetrics.sort_values(by='R2 Score', ascending=False))
 
     
 
