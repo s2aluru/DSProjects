@@ -16,25 +16,7 @@ This repository contains Data Science projects I have done out of my personal in
 <body style="background-color:cyan;">
 
 <table>
-  <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Oil Wells analysis.html">On Point Field Optimization</a> <br/>
-  Performed market analysis to identify potential clienys.
-  <li>
-    Automated web scraping tool to download 6000+ files of oil and gas field data from Texas railroad website using Python, Selenium.  
-    (<a href="https://github.com/s2aluru/Analysis/blob/master/DownloadTexasOandGData.ipynb">Code</a>)
-  </li><li> 
-      Performed exploration data analysis and identified Oil Wells with sub-optimal monthly production using Python, pandas, seaborn packages.  (<a href="https://github.com/s2aluru/Analysis/blob/master/Oil%20Wells%20analysis.ipynb">Code</a>)
-   </li> 
-</td></tr>
-<tr><td> <b>Synapses Health Practice Analysis</b>
-  <br/>
-  Furnished executive team with analysis, insights and reports for strategic planning of health care services. 
-<li>  
-	Performed analysis on services over last 5 years and created excel spread sheets for services, insurance payments, referring providers (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesServiceLineAnalyzer.py">Code</a>)
-	 </li> 
-   <li> Created excel spread sheets for diagnosis codes (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesDiagnosticCodeAnalyzer.py">Code</a>)
-</li>
-</td></tr>
-
+ 
 <tr><td><a href="https://github.com/s2aluru/ResumeChatbot/tree/master">Resume Chatbot</a><br/>
   <li> Developed a Chatbot for my resume using Flask, Python, NLP, I hosted the web applicationon my personal Azure website for testing. (<a href="https://github.com/s2aluru/ResumeChatbot/blob/master/chatbot.py">Code</a>)
  </li> 
