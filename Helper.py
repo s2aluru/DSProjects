@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 class Utils:
 
     def __init__(self):
-        self.datasetfolder = "C:\\Users\\spunna\\Data Science\\SynapsesAnalytics\\Data\\"
         metrics = ['Model', 'Feature Description', 'RMSE', 'R2 Score', 'Selected Features']
         self.evalmetrics = pd.DataFrame(columns= metrics)
      
