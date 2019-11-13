@@ -16,41 +16,23 @@ This repository contains Data Science projects I have done out of my personal in
 <body style="background-color:cyan;">
 
 <table>
-  <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Oil Wells analysis.html">On Point Field Optimization</a> <br/>
-  Performed market analysis to identify potential clienys.
-  <li>
-    Automated web scraping tool to download 6000+ files of oil and gas field data from Texas railroad website using Python, Selenium.  
-    (<a href="https://github.com/s2aluru/Analysis/blob/master/DownloadTexasOandGData.ipynb">Code</a>)
-  </li><li> 
-      Performed exploration data analysis and identified Oil Wells with sub-optimal monthly production using Python, pandas, seaborn packages.  (<a href="https://github.com/s2aluru/Analysis/blob/master/Oil%20Wells%20analysis.ipynb">Code</a>)
-   </li> 
-</td></tr>
-<tr><td> <b>Synapses Health Practice Analysis</b>
-  <br/>
-  Furnished executive team with analysis, insights and reports for strategic planning of health care services. 
-<li>  
-	Performed analysis on services over last 5 years and created excel spread sheets for services, insurance payments, referring providers (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesServiceLineAnalyzer.py">Code</a>)
-	 </li> 
-   <li> Created excel spread sheets for diagnosis codes (<a href="https://github.com/s2aluru/Analysis/blob/master/SynapsesDiagnosticCodeAnalyzer.py">Code</a>)
-</li>
-</td></tr>
-
-<tr><td><a href="https://github.com/s2aluru/ResumeChatbot/tree/master">Resume Chatbot</a><br/>
-  <li> Developed a Chatbot for my resume using Flask, Python, NLP, I hosted the web applicationon my personal Azure website for testing. (<a href="https://github.com/s2aluru/ResumeChatbot/blob/master/chatbot.py">Code</a>)
- </li> 
-   </td></tr>
-
-<tr><td><a href="https://s2aluru.github.io/Analysis/Html/Sentiment Analysis on Allergy tweets.html">Sentiment Analysis on Allergy tweets</a> <br/>
-  <li> Performed sentiment analysis on latest tweets on allergy and plotted sentiments within USA to get locations of allergy sufferers using Python, tweepy, nltk, geocoder, bigrams, textblob, plotly packages. (<a href="https://github.com/s2aluru/Analysis/blob/master/Sentiment%20Analysis%20on%20Allergy%20tweets.ipynb">Code</a>)
- </li> 
-   </td></tr>
-   
 <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Student Performance Prediction.html">Student Performance Prediction</a>
   <br/>
  <li>  As part of Micro-Masters final project, predicted students’ final GPA using various regression models with evaluation metric as RMSE (<a href="https://github.com/s2aluru/Analysis/blob/master/Student%20Performance%20Prediction.ipynb">Code</a>)
  </li>
 		<li>Used K-fold, Cross Validation, Grid Search techniques for Linear, Ridge, Lasso, Decision Tree and Random Forest regression models from scikit-learn package.</li>
  </td></tr>
+<tr><td><a href="https://s2aluru.github.io/Analysis/Html/Sentiment Analysis on Allergy tweets.html">Sentiment Analysis on Allergy tweets</a> <br/>
+  <li> Performed sentiment analysis on latest tweets on allergy and plotted sentiments within USA to get locations of allergy sufferers using Python, tweepy, nltk, geocoder, bigrams, textblob, plotly packages. (<a href="https://github.com/s2aluru/Analysis/blob/master/Sentiment%20Analysis%20on%20Allergy%20tweets.ipynb">Code</a>)
+ </li> 
+   </td></tr>
+ 
+<tr><td><a href="https://github.com/s2aluru/ResumeChatbot/tree/master">Resume Chatbot</a><br/>
+  <li> Developed a Chatbot for my resume using Flask, Python, NLP, I hosted the web applicationon my personal Azure website for testing. (<a href="https://github.com/s2aluru/ResumeChatbot/blob/master/chatbot.py">Code</a>)
+ </li> 
+   </td></tr>
+
+   
 <tr><td><a href="https://s2aluru.github.io/Analysis/Html/Staff Compensation.html">Staff Compensation</a>
   <br/>
   <li> As part of Micro-Masters mid term project, analyzed countries around the world and determined that Staff compensation doesn't necessarily go up with education expenditure and of the 20 countries Mexico's 'teacher compensation to expenditure' ratio is high (<a href="https://github.com/s2aluru/Analysis/blob/master/Staff%20Compensation.ipynb">Code</a>)
