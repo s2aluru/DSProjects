@@ -7,7 +7,7 @@ I got interested in Data Science after reading how data can help improve product
 <br/>
 After completing the degree, I have done freelancing for couple of companies and delivered useful insights.
 <br/><br/>
-This repository contains Data Science projects I have done out of my personal interest and others for Micro Masters and Freelancing. They are developed using Jupyter notebooks an Python. Listed below is the description of projects with a link to Html (if shareable) and source file. 
+This repository contains Data Science projects I have done out of my personal interest and others for Micro Masters. They are developed using Jupyter notebooks an Python. Listed below is the description of projects with a link to Html and source file. 
 <br/>
 <br/>
 
