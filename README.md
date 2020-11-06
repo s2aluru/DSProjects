@@ -16,6 +16,11 @@ This repository contains Data Science projects I have done out of my personal in
 <body style="background-color:cyan;">
 
 <table>
+	<tr><td><a hrefhttps://s2aluru.github.io/DSProjects/Html/Predicting Customer Churn.html/>Predicting Customer Churn for a bank</a> <br/>
+  <li> This classification analysis involves exploratory data analysis, feature engineering, prediction using several ensemble techniques, error analysis and model interpretation using sklearn packages in Python. (<a href="https://github.com/s2aluru/Analysis/blob/master/Predicting%Customer%Churn%20tweets.ipynb">Code</a>)
+ </li> 
+   </td></tr>
+	
 <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/Student Performance Prediction.html">Student Performance Prediction</a>
   <br/>
  <li>  As part of Micro-Masters final project, predicted students’ final GPA using various regression models with evaluation metric as RMSE (<a href="https://github.com/s2aluru/Analysis/blob/master/Student%20Performance%20Prediction.ipynb">Code</a>)
