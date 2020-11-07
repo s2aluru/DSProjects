@@ -31,7 +31,7 @@ This repository contains Data Science projects I have done out of my personal in
    </td></tr>
  
 <tr><td><a href="https://github.com/s2aluru/ResumeChatbot/tree/master">Resume Chatbot</a><br/>
-  <li> Developed a rule based and interlligent chatbot for my resume using Flask, Python, NLP, I hosted the web applicationon my personal Azure website for testing. (<a href="https://github.com/s2aluru/ResumeChatbot/blob/master/chatbot.py">Code</a>)
+  <li> Developed a rule and machine learning based chatbot for my resume using Flask, Python, NLP, I hosted the web applicationon my personal Azure website for testing. (<a href="https://github.com/s2aluru/ResumeChatbot/blob/master/chatbot.py">Code</a>)
  </li> 
    </td></tr>
 
