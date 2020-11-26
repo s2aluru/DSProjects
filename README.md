@@ -30,7 +30,7 @@ This repository contains Data Science projects I have done out of my personal in
  </li> 
    </td></tr>
    
-   <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/QuoraQuestionPairs.html">Resume Parser</a><br/>
+   <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/QuoraQuestionPairs.html">Duplicate Questions on Quora</a><br/>
   <li> This project is to find duplicate questions on Quora. I have performed EDA, processed question text, converted them to word vectors, visualized words using t-SNE and predicted duplicates using cosine similarity. (<a href="https://github.com/s2aluru/DSProjects/blob/master/QuoraQuestionPairs.ipynb">Code</a>)
  </li> 
    </td></tr>
