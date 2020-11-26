@@ -19,6 +19,11 @@ This repository contains Data Science projects I have done out of my personal in
  </li> 
    </td></tr>
 	
+<tr><td><a href="https://s2aluru.github.io/DSProjects/Html/IMDB%20Movie%20review%20analysis%20using%20deep%20learning%20(RNN%2C%20LSTM%2C%20CNN).html">IMDB Movie review analysis</a>
+	 <br/>
+	 <li> This project is to classify IMDB movie reviews as positive or negative using deep learning techniques such as LSTM and CNN.
+ </li> 
+	</td></tr>
 <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/Student Performance Prediction.html">Student Performance Prediction</a>
   <br/>
  <li>  As part of Micro-Masters final project, predicted students’ final GPA using various regression models with evaluation metric as RMSE (<a href="https://github.com/s2aluru/Analysis/blob/master/Student%20Performance%20Prediction.ipynb">Code</a>)
