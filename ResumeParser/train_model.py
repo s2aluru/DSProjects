@@ -34,14 +34,6 @@ def build_spacy_model(train,model):
             optimizer = nlp.begin_training()
         for itn in range(2):
             print("Starting iteration " + str(itn))
-            # random.shuffle(TRAIN_DATA)
-            # losses = {}
-            # batches = minibatch(TRAIN_DATA, size=compounding(8., 32., 1.001))
-            # for batch in batches:
-            #     texts, annotations = zip(*batch)
-            #     nlp.update(texts, annotations, sgd=optimizer, 
-            #                losses=losses)
-            # print('Losses', losses)
             random.shuffle(TRAIN_DATA)
             losses = {}
             for text, annotations in TRAIN_DATA:
@@ -49,7 +41,7 @@ def build_spacy_model(train,model):
                         nlp.update(
                             [text],  # batch of texts
                             [annotations],  # batch of annotations
-                            drop=0.2,  # dropout - make it harder to memorise data
+                            drop=0.2,  # dropout - make it harder to memorize data
                             sgd=optimizer,  # callable to update weights
                             losses=losses)
                     except Exception as e:
