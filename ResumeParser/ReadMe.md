@@ -1,0 +1,1 @@
+Created a resume parser using Spacy NER, OCR in Visual Studio Code IDE. Developed multile Python modules to convert data into Spacy format, extract entities and train NER model, performed OCR on a resume PDF and predicted entities.
