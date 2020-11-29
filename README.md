@@ -21,7 +21,7 @@ This repository contains Data Science projects I have done out of my personal in
 	
 <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/IMDB%20Movie%20review%20analysis%20using%20deep%20learning%20(RNN%2C%20LSTM%2C%20CNN).html">IMDB Movie review analysis</a>
 	 <br/>
-	 <li> This project is to classify IMDB movie reviews as positive or negative using deep learning techniques such as LSTM and CNN. Built multiple models using basic LSTM, LSTM with dropout, LSTM with dropout on LSTM and recurrent layers, CNN, CNN with Flatten and Fully Connected Network. The training times were 18, 15, 25, 6, 1 minutes respectively. It was interesting to find that LSTM with Flatten and FCN took least amount of time with comparable accuracy of 88%.
+	 <li> Performed Sequence Classification on IMDB movie reviews as positive or negative using Deep Learning techniques such as RNN, LSTM and CNN in Tensorflow. Built multiple models using basic LSTM, LSTM with dropout, LSTM with dropout on LSTM and recurrent layers, CNN, CNN with Flatten and Fully Connected Network. The training times were 18, 15, 25, 6, 1 minutes respectively. It was interesting to find that LSTM with Flatten and FCN took least amount of time with comparable accuracy of 88%.
  </li> 
 	</td></tr>
 
