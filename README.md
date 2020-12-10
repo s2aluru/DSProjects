@@ -1,9 +1,9 @@
 # Srilatha Aluru
 
 <br/>
-I'm a Data Scientist and a Principal Software Engineer with passion for developing end to end data solutions. I have 15+ years of experience implementing enterprise wide software solutions using various Microsoft, Java, Oracle technologies. 
+I'm a Data Scientist and a Principal Software Engineer with passion for developing end to end data solutions. 
 <br/><br/>
-I got interested in Data Science about 5 years ago after reading how data can help improve products, services, customer experience and pursued online <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/"> Micro-Masters degree</a> in Data Science from University of San Deigo in Decemeber 2018. I wanted to use my Data Science, Machine Learning and Software Engineering experience to build data driven solutions involving all phases (data collection, analysis, prediction, deployment). So, after completing the degree, I did freelancing for couple of companies and delivered useful insights/predictions using Machine Learning. 
+I have 15+ years of experience implementing enterprise wide software solutions using various Microsoft, Java, Oracle technologies. I got interested in Data Science about 5 years ago after reading how data can help improve products, services, customer experience and pursued online <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/"> Micro-Masters degree</a> in Data Science from University of San Deigo in Decemeber 2018. I wanted to use my Data Science, Machine Learning and Software Engineering experience to build data driven solutions involving all phases (data collection, analysis, prediction, deployment). So, after completing the degree, I did freelancing for couple of companies and delivered useful insights/predictions using Machine Learning. 
 <br/><br/>
  This repository consists of projects I have done out of my personal interest. They are developed using Python, Jupyter notebooks, Visual Studio Code IDE. Listed below is the description of projects with a link to Html and source file.
 <br/>
