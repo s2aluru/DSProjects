@@ -23,31 +23,33 @@ I have 15+ years of experience implementing enterprise wide software solutions u
  </li> 
 </td></tr>
 
-<tr><td><a href="https://github.com/s2aluru/DSProjects/tree/master/ResumeParser">Resume Parser</a><br/>
-  <li> Created a resume parser using Spacy NER, OCR in Visual Studio Code IDE. Developed multiple Python modules to convert data into Spacy format, extract entities and train NER model, performed OCR on a resume PDF and predicted entities. (<a href="https://github.com/s2aluru/DSProjects/tree/master/ResumeParser">Code</a>)
- </li> 
-  </td></tr>
-   
-   <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/QuoraQuestionPairs.html">Duplicate Questions on Quora</a><br/>
-  <li> This project is to find duplicate questions on Quora. I have performed EDA, processed question text, converted them to word vectors, visualized words using t-SNE and predicted duplicates using cosine similarity. (<a href="https://github.com/s2aluru/DSProjects/blob/master/QuoraQuestionPairs.ipynb">Code</a>)
- </li> 
-   </td></tr>
-   
-   <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/Sentiment Analysis on Allergy tweets.html">Sentiment Analysis on Allergy tweets</a> <br/>
-  <li> Performed sentiment analysis on latest tweets on allergy and plotted sentiments within USA to get locations of allergy sufferers using Python, tweepy, nltk, geocoder, bigrams, textblob, plotly packages. (<a href="https://github.com/s2aluru/Analysis/blob/master/Sentiment%20Analysis%20on%20Allergy%20tweets.ipynb">Code</a>)
- </li> 
-   </td></tr>
- 
-<tr><td><a href="https://github.com/s2aluru/ResumeChatbot/tree/master">Resume Chatbot</a><br/>
-  <li> Developed a rule and machine learning based chatbot for my resume using Flask, Python, NLP, I hosted the web applicationon my personal Azure website for testing. (<a href="https://github.com/s2aluru/ResumeChatbot/blob/master/chatbot.py">Code</a>)
- </li> 
-   </td></tr>
    
 <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/Student Performance Prediction.html">Student Performance Prediction</a>
   <br/>
  <li>  As part of Micro-Masters final project, predicted students’ final GPA using various regression models with evaluation metric as RMSE (<a href="https://github.com/s2aluru/Analysis/blob/master/Student%20Performance%20Prediction.ipynb">Code</a>)
  </li>	<li>Used K-fold, Cross Validation, Grid Search techniques for Linear, Ridge, Lasso, Decision Tree and Random Forest regression models from scikit-learn package.</li>
  </td></tr>
+ 
+  
+<tr><td><a href="https://github.com/s2aluru/ResumeChatbot/tree/master">Resume Chatbot</a><br/>
+  <li> Developed a rule and machine learning based chatbot for my resume using Flask, Python, NLP, I hosted the web applicationon my personal Azure website for testing. (<a href="https://github.com/s2aluru/ResumeChatbot/blob/master/chatbot.py">Code</a>)
+ </li> 
+   </td></tr>
+
+
+<tr><td><a href="https://github.com/s2aluru/DSProjects/tree/master/ResumeParser">Resume Parser</a><br/>
+  <li> Created a resume parser using Spacy NER, OCR in Visual Studio Code IDE. Developed multiple Python modules to convert data into Spacy format, extract entities and train NER model, performed OCR on a resume PDF and predicted entities. (<a href="https://github.com/s2aluru/DSProjects/tree/master/ResumeParser">Code</a>)
+ </li> 
+  </td></tr>
+      
+   <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/Sentiment Analysis on Allergy tweets.html">Sentiment Analysis on Allergy tweets</a> <br/>
+  <li> Performed sentiment analysis on latest tweets on allergy and plotted sentiments within USA to get locations of allergy sufferers using Python, tweepy, nltk, geocoder, bigrams, textblob, plotly packages. (<a href="https://github.com/s2aluru/Analysis/blob/master/Sentiment%20Analysis%20on%20Allergy%20tweets.ipynb">Code</a>)
+ </li> 
+   </td></tr>
+   <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/QuoraQuestionPairs.html">Duplicate Questions on Quora</a><br/>
+  <li> This project is to find duplicate questions on Quora. I have performed EDA, processed question text, converted them to word vectors, visualized words using t-SNE and predicted duplicates using cosine similarity. (<a href="https://github.com/s2aluru/DSProjects/blob/master/QuoraQuestionPairs.ipynb">Code</a>)
+ </li> 
+   </td></tr>
 
    
 <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/Staff Compensation.html">Staff Compensation</a>
