@@ -3,7 +3,7 @@
 <br/>
 I'm a Data Scientist and a Principal Applications Engineer with passion for developing end to end data solutions. 
 <br/><br/>
-I have 15+ years of experience implementing enterprise wide software solutions using various Microsoft, Java, Oracle technologies. I got interested in Data Science 5 years ago after reading how data can help improve products, services, customer experience and pursued online <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/"> Micro-Masters degree</a> in Data Science from University of San Deigo in Decemeber 2018. I wanted to use my Data Science, Machine Learning and Software Engineering experience to build data driven solutions involving all phases (data collection, analysis, prediction, deployment). So, after completing the degree, I did freelancing for couple of companies and delivered useful insights/predictions using Machine Learning. 
+I have 15+ years of experience implementing enterprise wide software solutions using various Microsoft, C#, Java, Oracle technologies. I got interested in Data Science 5 years ago after reading how data can help improve products, services, customer experience and pursued online <a href="https://credentials.edx.org/credentials/112d93eb68e5489ab0cde4589a0335fa/"> Micro-Masters degree</a> in Data Science from University of San Deigo in Decemeber 2018. I wanted to use my Data Science, Machine Learning and Software Engineering experience to build data driven solutions involving all phases (data collection, analysis, prediction, deployment). So, after completing the degree, I did freelancing for couple of companies and delivered useful insights/predictions using Machine Learning. 
 <br/><br/>
  This repository consists of projects I have done out of my personal interest. They are developed using Python, Jupyter notebooks, Visual Studio Code IDE. Listed below is the description of projects with a link to Html and source file.
 <br/>
@@ -26,7 +26,7 @@ I have 15+ years of experience implementing enterprise wide software solutions u
    
 <tr><td><a href="https://s2aluru.github.io/DSProjects/Html/Student Performance Prediction.html">Student Performance Prediction</a>
   <br/>
- <li>  As part of Micro-Masters final project, predicted students’ final GPA using various regression models with evaluation metric as RMSE (<a href="https://github.com/s2aluru/Analysis/blob/master/Student%20Performance%20Prediction.ipynb">Code</a>)
+ <li>  As part of Micro-Masters final project, predicted students’ final GPA using various regression models with evaluation metric as RMSE.
  </li>	<li>Used K-fold, Cross Validation, Grid Search techniques for Linear, Ridge, Lasso, Decision Tree and Random Forest regression models from scikit-learn package.</li>
  </td></tr>
  
